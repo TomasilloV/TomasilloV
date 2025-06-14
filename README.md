@@ -56,7 +56,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=TomasilloV&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=TomasilloV&theme=dracula&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -98,9 +98,13 @@
 
 <!--profile visit count-->
 <div align="center">
-    <h4 align="center">Visitor's count :eyes:</h4>
+    <h4 align="center">Visitor's count 👀</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{TomasilloV}/count.svg" alt="TomasilloV :: Visitor's Count" /></p>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=TomasilloV&label=Visitors&color=9&icon=3&pretty=true&color2=B57EDC" alt="Visitor Count" />
+  </a>
+</p>
 
 </div>
 
