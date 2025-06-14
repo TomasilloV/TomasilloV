@@ -98,7 +98,10 @@
 
 <!--profile visit count-->
 <div align="center">
-    [![](https://visitcount.itsvg.in/api?id=TomasilloV&icon=3&color=9&color2=B57EDC)](https://visitcount.itsvg.in)
+    <h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
 </div>
 
 
