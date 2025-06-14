@@ -98,13 +98,9 @@
 
 <!--profile visit count-->
 <div align="center">
-    <h4 align="center">Visitor's count 👀</h4>
+    <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=TomasilloV&label=Visitors&color=9&icon=3&pretty=true&color2=B57EDC" alt="Visitor Count" />
-  </a>
-</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{TomasilloV}/count.svg" alt="TomasilloV :: Visitor's Count" /></p>
 
 </div>
 
