@@ -98,9 +98,7 @@
 
 <!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=TomasilloV&icon=3&color=9&color2=B57EDC)](https://visitcount.itsvg.in)
-  
+    
 </div>
 
 
