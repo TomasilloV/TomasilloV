@@ -15,19 +15,16 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Application of technicians and website for managing operations of large companies**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I am currently learning **cybersecurity and networks.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 😁 I am currently improving my programming skills with **Kotlin, PHP and TypeScript.**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 💬 Ask me about **Web development, databases and mobile development for Android and iOS**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 📫 Feel free to reach me out **tomasvillegasg18@gmail.com**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
 
 
