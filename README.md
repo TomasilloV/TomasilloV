@@ -4,7 +4,7 @@
 <div align=center>
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+TomasVillegas+%F0%9F%91%8B;Software+Engineer+Student;Back-End+Front-End;Problem+Solver;Passionate+about+technology" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=B57EDC&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+TomasVillegas+%F0%9F%91%8B;Software+Engineer+Student;Back-End+Front-End;Problem+Solver;Passionate+about+technology" alt="Headline" />
     </div>
     <div align=center>
 </div>
